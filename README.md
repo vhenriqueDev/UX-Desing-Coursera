@@ -1,9 +1,9 @@
 # UX-Desing-Coursera
 Este repositório ira mostrar toda a minha trilha de estudos da certificação da google e todos os 8 cursos de ux design 
 # :pencil: Todos os tópicos do curso :man_technologist:
-# Módulo 1 Fundamentos do design da experiência do usuário (UX)
+# Semana 1
 
-### Semana 1
+### Fundamentos do design da experiência do usuário (UX)
 
 - [Os fundamentos do design de experiência do usuário](https://github.com/vhenriqueDev/UX-Desing-Coursera/blob/main/Fundamentos%20do%20design%20da%20experi%C3%AAncia%20do%20usu%C3%A1rio%20(UX)/semana-1/Os%20fundamentos%20do%20design%20de%20experi%C3%AAncia%20do%20usu%C3%A1rio.md)
 - [Empregos na área de experiência do usuário](https://github.com/vhenriqueDev/UX-Desing-Coursera/blob/main/Fundamentos%20do%20design%20da%20experi%C3%AAncia%20do%20usu%C3%A1rio%20(UX)/semana-1/Empregos%20na%20%C3%A1rea%20de%20experi%C3%AAncia%20do%20usu%C3%A1rio.md)
