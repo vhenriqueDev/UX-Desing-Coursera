@@ -19,4 +19,7 @@ Este repositório ira mostrar toda a minha trilha de estudos da certificação d
 
 #
 
-### Semana 2
+### Entenda os tipos de empresa que contratam designers de UX 
+
+
+# Semana 2
