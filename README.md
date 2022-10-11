@@ -19,7 +19,42 @@ Este repositório ira mostrar toda a minha trilha de estudos da certificação d
 
 #
 
+### Explorar empregos de experiência do usuário
+
+- [Responsabilidades profissionais comuns de designers iniciantes de UX]()
+- [Dane: um dia na vida de um designer iniciante de UX]()
+- [Designers especialistas, generalistas e T-shaped]()
+- [Erika: designer generalista ou especialista]()
+- [O papel de um designer iniciante de UX]()
+- [Trabalhar em uma equipe multifuncional]()
+- [Interagir com colegas de equipe multifuncionais]()
+- [Autorreflexão: sua jornada para se tornar um designer de UX]()
+
+#
+
 ### Entenda os tipos de empresa que contratam designers de UX 
 
+- [Empregos de design de UX em diferentes tipos de empresa](https://github.com/vhenriqueDev/UX-Desing-Coursera/blob/main/Fundamentos%20do%20design%20da%20experi%C3%AAncia%20do%20usu%C3%A1rio%20(UX)/semana-1/Empregos%20de%20design%20de%20UX%20em%20diferentes%20tipos%20de%20empresa.md)
+- [A influência do tamanho da empresa e do setor](https://github.com/vhenriqueDev/UX-Desing-Coursera/blob/main/Fundamentos%20do%20design%20da%20experi%C3%AAncia%20do%20usu%C3%A1rio%20(UX)/semana-1/A%20influ%C3%AAncia%20do%20tamanho%20da%20empresa%20e%20do%20setor.md)
+
+#
+
+### Conquiste uma carreira em design de UX 
+
+- [Do certificado ao sucesso na carreira]()
+- [Juan: a jornada de uma carreira em design de UX]()
+- [Mike: a jornada de uma carreira em design de UX]()
+- [Metas para explorar o design de UX]()
+- [Teste seu conhecimento sobre as possíveis funções de designers de UX]()
+
+#
+
+### Revisão da semana 1
+
+- [Finalização: Introdução ao design de experiência do usuário]()
+- [Glossário]()
+- [Desafio semanal 1: Os fundamentos do design de experiência do usuário]()
+
+#
 
 # Semana 2
